@@ -1,8 +1,10 @@
-# Gemini AI Photo Quick Guide (Nano Banana AI Model)
+# Gemini Photo AI Quick Guide (Nano Banana AI Pro Model)
 
 Main Link: [Gemini Photo AI](https://geminiphoto.ai)
 
 AI Prompts Gallery: [Image Prompts Gallery](https://geminiphoto.ai/ai-image-prompts)
+
+Docs: [Gemini Photo AI Docs](https://geminiphoto.ai/docs)
 
 Blogs:
 

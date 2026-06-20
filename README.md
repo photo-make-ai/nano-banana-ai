@@ -1,17 +1,17 @@
-# Gemini Photo AI Quick Guide (Nano Banana AI Pro Model)
+# Photo Make AI Quick Guide (Nano Banana AI Pro Model)
 
-Main Link: [Gemini Photo AI](https://geminiphoto.ai)
+Main Link: [Photo Make AI](https://photomake.ai)
 
-AI Prompts Gallery: [Image Prompts Gallery](https://geminiphoto.ai/ai-image-prompts)
+AI Prompts Gallery: [Image Prompts Gallery](https://photomake.ai/ai-image-prompts)
 
-Docs: [Gemini Photo AI Docs](https://geminiphoto.ai/docs)
+Docs: [Photo Make AI Docs](https://photomake.ai/docs)
 
 Blogs:
 
-[7 Trending Gemini AI Photo Editing Prompts for Boys Every Content Creator Should Try](https://geminiphoto.ai/blog/gemini-ai-photo-editing-prompts-for-boys)
+[7 Trending Gemini AI Photo Editing Prompts for Boys Every Content Creator Should Try](https://photomake.ai/blog/gemini-ai-photo-editing-prompts-for-boys)
 
 ## What it is  
-Gemini AI Photo is an AI‑powered photo editor & generator that uses the Nano Banana model (also known as Gemini 2.5 Flash Image) to deliver advanced image transformations via text prompts or uploads.
+Photo Make is an AI‑powered photo editor & generator that uses the Nano Banana model (also known as Gemini 2.5 Flash Image) to deliver advanced image transformations via text prompts or uploads.
 
 ## Why you might use it  
 - Leverages the Nano Banana model which supports both text‑to‑image and image‑to‑image workflows, enabling precise edits while preserving character identity and scene structure.  
